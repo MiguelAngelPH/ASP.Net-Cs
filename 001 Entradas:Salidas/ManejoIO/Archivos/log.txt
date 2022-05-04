@@ -1,0 +1,16 @@
+Nombre y Apellido: Mariano 1ero Legajo: 180804 Puesto: Profesor Sueldo: 600
+<br>
+Nombre y Apellido: Mariano 2do Legajo: 180808 Puesto: Profesor adjunto Sueldo: 750
+<br>
+Nombre y Apellido: sapo Legajo: 180804 Puesto: Profesor Sueldo: 2134
+<br>
+<hr>
+Nombre y Apellido: pepe Legajo: 180804 Puesto: Profesor Sueldo: 2134
+<br>
+<hr>
+Nombre y Apellido: 5 Legajo: 180804 Puesto: 1324 Sueldo: 2134 Fecha: 19/4/2022 18:57:58
+<br>
+<hr>
+<b> Nombre y Apellido: Mariano</b> Legajo: 123 Puesto: 123 Sueldo: 123 Fecha: 19/4/2022 19:00:16
+<br/>
+<hr/>
